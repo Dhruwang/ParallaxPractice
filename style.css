@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+}
+
+
+img{
+    height: 100vh;
+    margin: auto;
+    position: relative;
+}
+.container{
+    position: fixed;
+    overflow-x: hidden;
+    z-index: -1;
+    left: 5rem;
+}
+.container2{
+    height: 60vw;
+}
+.container3{
+    position: sticky;
+}
