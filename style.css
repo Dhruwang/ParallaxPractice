@@ -7,8 +7,12 @@ img{
     height: 100vh;
     margin: auto;
     position: relative;
+    width: 40vw;
+} p{
+    color: white;
 }
 .container{
+    width: 100vw;
     position: fixed;
     overflow-x: hidden;
     z-index: -1;
@@ -16,7 +20,4 @@ img{
 }
 .container2{
     height: 60vw;
-}
-.container3{
-    position: sticky;
 }
